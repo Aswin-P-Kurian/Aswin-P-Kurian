@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Aswin P Kurian_Github_Banner.png" alt="Aswin P Kurian - DevOps and Data Science" width="100%">
+</p>
 # Hi, I'm Aswin P Kurian 👋
 
 ### MCA Student | DevOps Trainee | Python & Data Science Enthusiast
